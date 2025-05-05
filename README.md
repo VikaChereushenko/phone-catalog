@@ -2,7 +2,7 @@
 
 A modern e-commerce platform for electronic devices focusing on phones, tablets, and accessories.
 
-## **[DEMO]**(https://vikachereushenko.github.io/phone-catalog/)
+## [DEMO](https://vikachereushenko.github.io/phone-catalog/)
 
 ## **Description**
 
