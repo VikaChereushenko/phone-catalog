@@ -1,4 +1,4 @@
-# **PHONE CATALOG👌
+# PHONE CATALOG👌
 
 A modern e-commerce platform for electronic devices focusing on phones, tablets, and accessories.
 
